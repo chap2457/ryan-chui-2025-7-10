@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+
+<style>
+p  {
+color:red;
+}
+p:hover{ color: blue;
+}
+h1:hover{color:red;
+}
+
+.ryan-chui {
+color: orange;
+}
+
+
+</style>
+
+
+</head>
+<body>
+
+
+<div class="ryan-chui">
+
+<h1>Guts and Blackpowder<h1>
+<p>https://www.roblox.com/games/12334109280/Guts-Blackpowder </p>
+<a href=https://www.roblox.com/games/12334109280/Guts-Blackpowder> Play now
+</a>
+
+
+</div>
+
+
+</body>
+</html>
+<script> 
+ var zombie = ["shambers", "runners", "igniters", "bombers", "cuirasser", "zapper"];
+  var zombie_count [10,4,2,2,5,2]
+  
+  for (var i = 1; i < 4; i++) 
+  
+  
